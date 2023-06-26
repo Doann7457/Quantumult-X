@@ -1,10 +1,10 @@
 /*********************************
 QuantumultX thêm tập lệnh：
 *********************************
-QuantumultX重写引用地址：
-https://raw.githubusercontent.com/Doann7457/testflight-auto-john/main/TF_khoa.js
+QuantumultX viết lại người giới thiệu：
+https://raw.githubusercontent.com/Doann7457/Quantumult-X/main/testflight-auto-john/TF_khoa.js
 [rewrite_local]
-^https:\/\/testflight\.apple\.com\/v3\/accounts/.*\/apps$ url script-request-header https://raw.githubusercontent.com/Doann7457/testflight-auto-john/main/TF_khoa.js
+^https:\/\/testflight\.apple\.com\/v3\/accounts/.*\/apps$ url script-request-header https://raw.githubusercontent.com/Doann7457/Quantumult-X/main/testflight-auto-john/TF_khoa.js
 [mitm]
 hostname = testflight.apple.com
 *********************************/
