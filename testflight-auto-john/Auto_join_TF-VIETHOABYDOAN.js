@@ -1,5 +1,5 @@
 //*********************************
-// */1 * * * * * https://raw.githubusercontent.com/Doann7457/testflight-auto-john/main/Auto_join_TF-VIETHOABYDOAN.js, tag=TestFlight TỰ ĐỘNG THÊM , img-url=https://raw.githubusercontent.com/Doann7457/testflight-auto-john/main/testflight.png, enabled=true
+// */1 * * * * * https://raw.githubusercontent.com/Doann7457/Quantumult-X/main/testflight-auto-john/Auto_join_TF-VIETHOABYDOAN.js, tag=TestFlight TỰ ĐỘNG JOHN APP BETA , img-url=https://raw.githubusercontent.com/Doann7457/testflight-auto-john/main/testflight.png, enabled=true
 //*********************************
 
 !(async () => {
